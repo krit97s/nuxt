@@ -143,7 +143,7 @@
     margin-top: 15px;
     width: 150px !important;
     height: 150px !important;
-    background-image: url("../assets/img/IMG_4957.jpg") !important;
+    /* background-image: url("../assets/img/IMG_4957.jpg") !important; */
     background-repeat: no-repeat !important;
     background-position: center !important;
     background-size: cover !important;
@@ -204,7 +204,7 @@
     text-align: center;
   }
   .logo-profile-mobile {
-    background-image: url("../assets/img/IMG_4957.jpg");
+    /* background-image: url("../assets/img/IMG_4957.jpg"); */
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -420,7 +420,7 @@ li a:hover {
   position: relative;
 }
 .logo-profile {
-  background-image: url("../assets/img/IMG_4957.jpg");
+  /* background-image: url("../assets/img/IMG_4957.jpg"); */
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
