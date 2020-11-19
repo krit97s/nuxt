@@ -305,36 +305,6 @@ li a:hover {
   background-position: center;
   background-repeat: no-repeat;
 }
-/* .item-box .item-body4 {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  top: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url('../assets/img/1.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-.item-box .item-body5 {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  top: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url('../assets/img/1.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-} */
 .item-box .item-body6 {
   position: absolute;
   width: 100%;
