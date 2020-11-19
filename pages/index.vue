@@ -413,7 +413,7 @@ li a:hover {
       rgba(22, 22, 22, 0.9),
       rgba(20, 20, 20, 0.5)
     ),
-    url("../assets/img/IMG_4961.jpg");
+    url("../assets/img/IMG_4961.JPG");
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
